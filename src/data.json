@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Dog Chow Salud Visible Adultos Minis y Pequeños",
+    "photo": "https://s3.us-east-1.amazonaws.com/laikapp/images_products/d03e2c30172c8dd23b577e3d9cdb7c4a.png",
+    "start": 1,
+    "price": 24200,
+    "weight": [20000, 17000, 4000, 1000],
+    "specie": "dog"
+  },
+  {
+    "id": 2,
+    "name": "Salvaje Dieta Horneada Natural Carne",
+    "photo": "https://laikapp.s3.amazonaws.com/dev_images_products/13505_66924_Salvaje_Dieta_Horneada_Natural_Carne_1618354397_500x500.jpg",
+    "start": 2,
+    "price": 5310,
+    "weight": [500],
+    "specie": "dog"
+  },
+  {
+    "id": 3,
+    "name": "Whole Barf Original Taste",
+    "photo": "https://laikapp.s3.amazonaws.com/dev_images_products/10195_101233_Whole_Barf_Original_Taste_1624241028_682x1024.jpeg",
+    "start": 3,
+    "price": 3060,
+    "weight": [500],
+    "specie": "dog"
+  },
+  {
+    "id": 4,
+    "name": "Br For Cat Wild Adulto",
+    "photo": "https://s3.us-east-1.amazonaws.com/laikapp/images_products/3200_BR_FOR_CAT_WILD_ADULTO___300X424.jpg",
+    "start": 4,
+    "price": 34100,
+    "weight": [1000, 3000],
+    "specie": "cat"
+  },
+  {
+    "id": 5,
+    "name": "Purina Proplan Gatitos Con Optistart",
+    "photo": "https://s3.us-east-1.amazonaws.com/laikapp/images_products/7de69b3835ef191b30db018e0e2e5e3f.png",
+    "start": 5,
+    "price": 120500,
+    "weight": [3000, 7500, 15000],
+    "specie": "cat"
+  },
+  {
+    "id": 6,
+    "name": "Purina Proplan Gato Urinary",
+    "photo": "https://s3.us-east-1.amazonaws.com/laikapp/images_products/369085b0861f88631ce3d3c22a704b2f.png",
+    "start": 1,
+    "price": 127000,
+    "weight": [3000],
+    "specie": "cat"
+  },
+  {
+    "id": 7,
+    "name": "Purina Proplan Gatos Esterilizados Con Optirenal",
+    "photo": "https://s3.us-east-1.amazonaws.com/laikapp/images_products/6ec24d02fb450d06dda6ea18b24446fb.png",
+    "start": 2,
+    "price": 126400,
+    "weight": [3000, 1000],
+    "specie": "cat"
+  },
+  {
+    "id": 8,
+    "name": "Ringo Cachorro",
+    "photo": "https://s3.us-east-1.amazonaws.com/laikapp/images_products/2a1889971bdf875bd454f155f3575586.png",
+    "start": 3,
+    "price": 111400,
+    "weight": [30000, 15000],
+    "specie": "dog"
+  },
+  {
+    "id": 9,
+    "name": "Dog Chow Salud Visible Cachorros Medianos Y Grandes",
+    "photo": "https://s3.us-east-1.amazonaws.com/laikapp/images_products/c0dfddc4f1de8f3833629714d2920c35.png",
+    "start": 4,
+    "price": 24200,
+    "weight": [2000, 4000, 8000, 17000, 22700, 1000],
+    "specie": "dog"
+  },
+  {
+    "id": 10,
+    "name": "Evolve Dog Lata Pavo",
+    "photo": "https://laikapp.s3.amazonaws.com/images_products/2681_Evolve_Dog_%2ALata_Pavo_676X676.png",
+    "start": 5,
+    "price": 10800,
+    "weight": [374],
+    "specie": "dog"
+  }
+]
